@@ -1,7 +1,7 @@
 [![MasterHead](https://www.jobvector.de/karriere-ratgeber/wp-content/uploads/2024/03/data-analyst.jpg)]
 <h1 align="center">Hi 👋, I'm Syam N. Sasi</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about using data analytics to help organisations make decisions and develop. With a strong background in technologies such as Excel, PowerBI, SQL, and Python, as well as commercial skills, I hope to create meaningful solutions by combining technical expertise and business insight.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.caxsol.com/assets/img/data-analysis.gif](https://www.shutterstock.com/shutterstock/photos/1140606680/display_1500/stock-photo--cartoon-male-trader-financial-data-analyst-character-sitting-monitoring-graph-diagram-chart-1140606680.jpg)”)>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fthe-role-of-python-sql-and-r-in-data-analysis%2F&psig=AOvVaw1sl0rsrE-FvsbiwVl65SXA&ust=1715337867916000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi72JKzgIYDFQAAAAAdAAAAABAJ">
 
 - 🌱 I’m currently learning **Google Data Analytics Certifications**
 

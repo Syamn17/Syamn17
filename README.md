@@ -14,7 +14,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-## Tools and Languages
+
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)

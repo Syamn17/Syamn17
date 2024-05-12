@@ -1,6 +1,6 @@
 [![MasterHead](https://www.jobvector.de/karriere-ratgeber/wp-content/uploads/2024/03/data-analyst.jpg)]
 <h1 align="center">Hi 👋, I'm Syam N. Sasi</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about using data analytics to help organisations make decisions and develop. With a strong background in technologies such as Excel, PowerBI, SQL, and Python, as well as commercial skills, I hope to create meaningful solutions by combining technical expertise and business insight.</h3>
+<h3 align="center">Welcome to my profile! I'm a professional recent data analytics to help companies to make strategic decisions. With a strong background in data and technologies such as Excel, PowerBI, SQL, and Python, as well as Logistics industry, I hope to create meaningful solutions by combining technical expertise and business insight.</h3>
 
 
 - 🌱 I’m currently learning **Google Data Analytics Certifications**
@@ -29,3 +29,4 @@
 <a href="https://instagram.com/https://www.instagram.com/sky_walkerer?igsh=btr5ahpvcni1dxc%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sky_walkerer?igsh=btr5ahpvcni1dxc%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
 
+Lets connect Guys ........
